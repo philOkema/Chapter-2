@@ -1,0 +1,10 @@
+<?php
+echo "<h1>Welcome to My Website</h1>";
+echo "<p><strong>PHP</strong> is a widely-used open-source scripting language.</p>";
+echo "<p>It is especially suited for <em>web development</em> and can be embedded into HTML.</p>";
+echo "<ul>
+        <li>Easy to learn</li>
+        <li>Flexible and dynamic</li>
+        <li>Supports various databases</li>
+      </ul>";
+?>
